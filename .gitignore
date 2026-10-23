@@ -1,5 +1,5 @@
 # Virtual environment
-.venv/
+.myvenv/
 
 # Local database
 db.sqlite3
