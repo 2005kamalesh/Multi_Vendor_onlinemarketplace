@@ -1,8 +1,5 @@
 # Virtual environment
-.myvenv/
-
-# Local database
-db.sqlite3
+.myenv/
 
 # Python cache
 __pycache__/
